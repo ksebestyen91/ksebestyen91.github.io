@@ -1,0 +1,19 @@
+div {
+    border: 2px solid black;
+    border-bottom: 0px;
+    padding: 20px;
+}
+
+.last_row {
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+div:hover {
+    background: orangered;
+}
+
+body {
+    width: 350px;
+}
