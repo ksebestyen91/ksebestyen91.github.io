@@ -1,0 +1,30 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+article {
+    border: 2px solid blue;
+    background: white;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+div {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    margin: 10px;
+}
+
+.orange {
+    background: orangered;
+}
+
+.box_purple {
+    background: purple;
+}
